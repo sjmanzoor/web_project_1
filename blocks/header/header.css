@@ -7,23 +7,3 @@
     background-color: #F2F2F2;
     overflow: hidden;
   }
-
-
-  .header__main-illustration {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    z-index: 1;
-    width: 756px;
-    height: 608px;
-  }
-  
-  .header__square {
-    top: 64px;
-    right: 0px;
-    position: absolute;
-    height: 568px;
-    width: 568px;
-    background-color: #2f80ed;
-  }
-    
