@@ -2,12 +2,7 @@
   z-index: 1; 
 }
 
-.two-columns {
-  justify-content: space-between;
-  display: flex;
-  width: 80%;
-  margin: 100px auto;
-}
+
 
 .two-columns__brief {
   line-height: 1.2;

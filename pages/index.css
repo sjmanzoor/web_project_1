@@ -9,4 +9,7 @@
 @import url("../blocks/header/__main-illustration/header__main-illustration.css");
 @import url("../blocks/header/__square/header__square.css");
 
+@import url("../blocks/description/description.css");
+@import url("../blocks/description/__two-columns/description__two-columns.css");
+
 @import url("../blocks/logo/_place/logo_place_header.css");
