@@ -5,27 +5,16 @@
     display: flex;
     position: relative;
     background-color: #F2F2F2;
-  }
-  
-  .logo {
-    z-index: 1; 
-  }
-  
-  .logo_place_header {
-    width: 154px;
-    height: 31px;
-    top: 30px;
-    left: 64px;
-    position: absolute;
+    overflow: hidden;
   }
   
   .header__title {
-    align-items: center;
     display: flex;
-    margin: 0;
-    margin-left: 64px;
+    margin: 0 0 0 64px;
+    -ms-flex-item-align: center;
+    align-self: center;
     padding: 0;
-    max-width: 730px;
+    width: 730px;
     z-index: 2;
     line-height: 96px;
     font-size: 102px;
