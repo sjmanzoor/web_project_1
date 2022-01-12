@@ -2,24 +2,6 @@
   z-index: 1; 
 }
 
-
-.two-columns__brief {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  max-width: 175px;
-  margin: 0;
-  color: #2f80ed;
-}
-
-.two-columns__main-text {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  max-width: 80%;
-  min-width: 784px;
-}
-
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
