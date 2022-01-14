@@ -1,5 +1,6 @@
 .description {
-    display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
-  }
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
