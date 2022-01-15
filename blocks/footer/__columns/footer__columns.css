@@ -1,10 +1,10 @@
 .footer__columns {
-    display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    margin: 60px auto 40px auto;
-    width: 90%;
-  }
+  display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 60px auto 40px auto;
+  width: 90%;
+}
