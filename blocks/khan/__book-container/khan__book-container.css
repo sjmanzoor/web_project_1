@@ -1,5 +1,7 @@
-.khan__book-container {
-    display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
-  }
+.khan__book-container{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}

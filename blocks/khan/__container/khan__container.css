@@ -1,12 +1,4 @@
 .khan__container {
-    margin: auto;
-    padding-top: 100px;
-    display: flex;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    width: 80%;
-  }
+  width: 80%;
+  margin: 0 auto;
+}
