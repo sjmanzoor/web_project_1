@@ -1,12 +1,12 @@
 .header__square {
-    top: 64px;
-    right: 0px;
-    position: absolute;
-    height: 568px;
-    width: 568px;
-    background-color: #2f80ed;
-    -webkit-transform: rotate(-15deg);
-    -ms-transform: rotate(-15deg);
-    transform: rotate(-15deg);
-  }
+  top: 64px;
+  right: 0px;
+  position: absolute;
+  height: 568px;
+  width: 568px;
+  background-color: #2f80ed;
+  -webkit-transform: rotate(-15deg);
+  -ms-transform: rotate(-15deg);
+  transform: rotate(-15deg);
+}
     
