@@ -4,6 +4,7 @@
   display: flex;
   align-content: flex-start;
   width: 250px;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-top: 60px;
 }
